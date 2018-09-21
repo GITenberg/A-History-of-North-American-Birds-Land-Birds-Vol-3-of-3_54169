@@ -1,5 +1,8 @@
 _repo: A-History-of-North-American-Birds-Land-Birds-Vol-3-of-3_54169
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54169-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Brewer, T. M. (Thomas Mayo)
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '47742'
     url: http://www.gutenberg.org/2009/agents/47742
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54169#A-History-of-North-American-Birds-Land-Birds-Vol-3-of-3
 gutenberg_issued: '2017-02-15'
 gutenberg_type: Text
 identifiers:
